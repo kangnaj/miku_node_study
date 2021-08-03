@@ -1,0 +1,19 @@
+{
+  "name": "node_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangnaj/miku_node_study.git"
+  },
+  "author": "miku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangnaj/miku_node_study/issues"
+  },
+  "homepage": "https://github.com/kangnaj/miku_node_study#readme"
+}

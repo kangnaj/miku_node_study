@@ -181,6 +181,15 @@ process.stdout.write('read from console: ' + data.toString());
 
 // fs 文件系统
 // Node.js文件系统被封装在fs模块中，它提供了文件的读取、写入、更名、删除、遍历目录、链接等POSIX文件系统操作。
+// fs.stat 检测是文件还是目录
+// fs.mkdir 创建目录
+// fs.writeFile 创建写入文件
+// fs.appendFile 追加文件
+// fs.readFile 读取文件
+// fs.readdir 读取目录
+// fs.rename 重命名
+// fs.rmdir 删除目录
+// fs.unlink 删除文件
 
 
 // Node.js 工具模块
@@ -200,4 +209,10 @@ process.stdout.write('read from console: ' + data.toString());
 
 // path.resolve([from ...], to),能够将to参数解析为绝对路径。
 
-// Node.js DNS   使用系统底层的特性，完成名字解析，这个过程不需要网络通
+// Node.js DNS   使用系统底层的特性，完成名字解析
+
+// Node 创建 Web 服务器
+// var http = require('http');
+
+// CommonJS
+// CommonJS 就是模块化的标准
